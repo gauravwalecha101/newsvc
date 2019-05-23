@@ -1,0 +1,5 @@
+APP_NAME: 'test123'
+MS_NAME: 'newsvc'
+BRANCH: 'master'
+GIT_SOURCE_URL: 'https://github.com/gauravwalecha101/newsvc.git'
+SONAR_HOST_URL: 'http://sonarqube-test123-devops.40.71.221.144.nip.io'
